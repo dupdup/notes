@@ -1,33 +1,15 @@
 ---
 layout: page
-title: Edd's Notes
+title: doruk's Notes
 nav_exclude: true
 has_children: true
 has_toc: false
 ---
 
-# Edd's notes
-
-A collection of notes I've taken while self-studying computer science.
-
-## Motivation
-
-Writing notes helps me retain the knowledge I gain from reading books, papers, and specifications.
-
 ## Topics
 
-- Computer networking
 - Data structures and algorithms
-- Operating systems
-
-## Future Topics
-
-- Distributed systems
-- Computer architecture
-- Compilers
-- Software design
-- Databases
-
-## References
+- Programming languages
+- Clean Code
 
 See all [references](/references)
